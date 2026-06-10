@@ -24,6 +24,9 @@ https://github.com/user-attachments/assets/614b1f65-1840-4342-91f8-1d3af42c9963
 3. Ensure you have an ARCore-supported physical Android device (Emulators do not support hardware camera tracking).
 4. Build and deploy directly via USB or Wireless Debugging.
 
+### To Use it easily through apk
+Go to <a href="https://github.com/Skanda098/AR-Furniture-Planner/releases"> Releases</a> and download the latest version apk from there
+
 ### Screenshots
 <img width="270" height="598" alt="S2" src="https://github.com/user-attachments/assets/df9718f0-baaa-43be-adca-90604dd917aa" />
 <img width="270" height="598" alt="S1" src="https://github.com/user-attachments/assets/767dd152-91ac-409b-92ae-3e0849bd513b" />
